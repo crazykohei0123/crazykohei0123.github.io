@@ -338,6 +338,36 @@ footer a:hover {
 .clearfix {display: inline-block;}
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
+.general {
+  padding: 20px 20px 16px 20px;
+}
+
+.general_icon {
+  float: left;
+  width: 48px;
+  height: 48px;
+}
+
+.general_icon_img {
+  width: 48px;
+}
+
+.general_name {
+  float: left;
+  padding: 0 12px;
+  color: #333333;
+  font: 300 20px/48px "Open Sans", "Helvetica", sans-serif;
+}
+
+.list {
+  padding: 4px 8px;
+}
+
+.list_item {
+  padding: 5px 0;
+  color: #333333;
+  font: 300 15px/20px "Open Sans", "Helvetica", sans-serif;
+}
 
 .list_item_icon {
   display: inline-block;
