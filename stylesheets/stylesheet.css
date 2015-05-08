@@ -339,6 +339,12 @@ footer a:hover {
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
 
+.list_item_icon {
+  display: inline-block;
+  width: 20px;
+  text-align: center;
+}
+
 /* #Media Queries
 ================================================== */
 
